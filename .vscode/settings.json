@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.tpp": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "xtree": "cpp",
+        "map": "cpp",
+        "array": "cpp",
+        "xutility": "cpp"
+    },
+    "terminal.integrated.shell.windows": "cmd.exe"
+}
